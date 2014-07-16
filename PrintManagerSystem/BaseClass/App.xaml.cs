@@ -7,6 +7,7 @@ using System.Windows;
 
 namespace BaseClass
 {
+//
     /// <summary>
     /// App.xaml 的交互逻辑
     /// </summary>
