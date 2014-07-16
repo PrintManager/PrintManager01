@@ -1,0 +1,11 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\bin\Debug\MemberManager.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\bin\Debug\MemberManager.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\obj\x86\Debug\MainWindow.baml
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\obj\x86\Debug\MainWindow.g.cs
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\obj\x86\Debug\App.g.cs
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\obj\x86\Debug\MemberManager_MarkupCompile.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\obj\x86\Debug\MemberManager.g.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\obj\x86\Debug\MemberManager.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\obj\x86\Debug\MemberManager.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\obj\x86\Debug\MemberManager.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\MemberManager\obj\x86\Debug\MemberManager.pdb

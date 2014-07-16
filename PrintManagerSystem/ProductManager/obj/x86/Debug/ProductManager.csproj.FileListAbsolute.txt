@@ -1,0 +1,11 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\bin\Debug\ProductManager.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\bin\Debug\ProductManager.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\obj\x86\Debug\MainWindow.baml
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\obj\x86\Debug\MainWindow.g.cs
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\obj\x86\Debug\App.g.cs
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\obj\x86\Debug\ProductManager_MarkupCompile.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\obj\x86\Debug\ProductManager.g.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\obj\x86\Debug\ProductManager.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\obj\x86\Debug\ProductManager.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\obj\x86\Debug\ProductManager.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\ProductManager\obj\x86\Debug\ProductManager.pdb

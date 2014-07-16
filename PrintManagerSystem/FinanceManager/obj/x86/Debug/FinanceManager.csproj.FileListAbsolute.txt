@@ -1,0 +1,11 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\bin\Debug\FinanceManager.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\bin\Debug\FinanceManager.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\obj\x86\Debug\MainWindow.baml
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\obj\x86\Debug\MainWindow.g.cs
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\obj\x86\Debug\App.g.cs
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\obj\x86\Debug\FinanceManager_MarkupCompile.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\obj\x86\Debug\FinanceManager.g.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\obj\x86\Debug\FinanceManager.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\obj\x86\Debug\FinanceManager.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\obj\x86\Debug\FinanceManager.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\PrintManagerSystem\FinanceManager\obj\x86\Debug\FinanceManager.pdb
