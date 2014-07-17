@@ -1,0 +1,8 @@
+﻿<Window x:Class="MemberManager.View.MemberRegistrationView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="会员注册" Height="338" Width="564" Loaded="Window_Loaded">
+    <Grid>
+        
+    </Grid>
+</Window>

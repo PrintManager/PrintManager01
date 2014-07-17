@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <PNode Text="销售订单">
+  </PNode >
+  <PNode Text="生产管理">
+  </PNode>
+  <PNode Text="库存管理">
+  </PNode>
+  <PNode Text="财务管理">
+  </PNode>
+  <PNode Text="会员/供应商">
+    <CNode Text="会员注册">
+      <Assemble>MemberManager</Assemble>
+      <Class>MemberRegistrationView</Class>
+    </CNode>
+  </PNode>
+</Root>

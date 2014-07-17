@@ -22,11 +22,30 @@ namespace PrintManagerSystem
         public MainWindow()
         {
             InitializeComponent();
+            //全局初始化配置文件
+            Static.StaticDataMethod.StartInit();
+            //初始化静态控件
+            InitStaticControl();
+            //可视化控件初始化
+            View.ViewMethod.StartInit();
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
+            
+            
+        }
 
+        private void InitStaticControl()
+        {
+            View.StaticControl.MainNavBarControl = this.ModelMenuNVC;
+            View.StaticControl.TopBod = this.TopBorder;
+            View.StaticControl.MainWindows = this;
+        }
+
+        private void image1_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            BottonMenu.Visibility = Visibility.Visible;
         }
     }
 }
